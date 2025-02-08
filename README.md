@@ -40,10 +40,9 @@ Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on S
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-- 📜 [CompTIA Security+](https://images.credly.com/size/110x110/images/8ae70ed4-c083-4565-ae9d-31bf0c0ab418/security_.png)](https://www.credly.com/badges/your-security-plus-link)
 
-- 📜 [TryHackMe: Cyber Defense Path](https://tryhackme.com/p/Mduduzi)
+CompTIA Security+ (February 2025)
+Google Cybersecurity Certificate (October 2024)
+ISC2 Certified in Cybersecurity (CC) (November 2023)
 
 </div>

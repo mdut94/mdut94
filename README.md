@@ -3,6 +3,10 @@
 
 Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on SOC operations, threat detection, and incident response. I hold a BSc in Mathematics and Statistics, which has strengthened my problem-solving and analytical skills—essential for cybersecurity. I'm passionate about securing systems, hunting threats, and continuously learning new security techniques. My goal is to level up to an L2 SOC Analyst while sharing my cybersecurity journey.
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
@@ -52,7 +56,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project

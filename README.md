@@ -4,12 +4,16 @@
 Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on SOC operations, threat detection, and incident response. I hold a BSc in Mathematics and Statistics, which has strengthened my problem-solving and analytical skills—essential for cybersecurity. I'm passionate about securing systems, hunting threats, and continuously learning new security techniques. My goal is to level up to an L2 SOC Analyst while sharing my cybersecurity journey.
 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Goals
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🔹 Level up to an L2 SOC Analyst
 
-## Skills & Expertise
+🔹 Learn Red Teaming and Bug Bounty
+
+🔹 Share my cybersecurity journey through projects and writeups
+
+
+## 🛠 Skills & Expertise
 
 🔹 Security Operations (SIEM, Log Analysis, Incident Response)
 

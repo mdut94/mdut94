@@ -1,7 +1,7 @@
-# Hello, I'm Mduduzi
+# About me
 <a href="https://www.linkedin.com/in/mduduzi-thanjekwayo-b3845083"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on SOC operations, threat detection, and incident response. I'm passionate about securing systems, hunting threats, and continuously learning new security techniques. My goal is to level up to an L2 SOC Analyst while sharing my cybersecurity journey.
+Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on SOC operations, threat detection, and incident response. I hold a BSc in Mathematics and Statistics, which has strengthened my problem-solving and analytical skills—essential for cybersecurity. I'm passionate about securing systems, hunting threats, and continuously learning new security techniques. My goal is to level up to an L2 SOC Analyst while sharing my cybersecurity journey.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]

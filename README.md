@@ -42,7 +42,7 @@ Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on S
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-- 📜 [CompTIA Security+]([https://www.credly.com/your-cert-link](https://www.credly.com/badges/ddc01b47-6fb8-42b7-8af8-9c9425cb51de/public_url))
+- 📜 [CompTIA Security+]((https://www.credly.com/badges/ddc01b47-6fb8-42b7-8af8-9c9425cb51de/public_url))
 - 📜 [TryHackMe: Cyber Defense Path](https://tryhackme.com/p/Mduduzi)
 
 </div>

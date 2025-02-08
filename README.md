@@ -3,26 +3,32 @@
 
 Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on SOC operations, threat detection, and incident response. I hold a BSc in Mathematics and Statistics, which has strengthened my problem-solving and analytical skills—essential for cybersecurity. I'm passionate about securing systems, hunting threats, and continuously learning new security techniques. My goal is to level up to an L2 SOC Analyst while sharing my cybersecurity journey.
 
-## Projects
-- Detection Lab
-- SOC Automation Project
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Skills & Expertise
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+🔹 Security Operations (SIEM, Log Analysis, Incident Response)
+
+🔹 Threat Hunting & Detection Engineering
+
+🔹 Network Security & Traffic Analysis
+
+🔹 SOC Automation (Python, Bash, PowerShell)
+
+🔹 Threat Intelligence & OSINT Investigations
+
+🔹 Digital Forensics & Malware Analysis
+
+🔹 Cybersecurity Research & Writeups
+
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

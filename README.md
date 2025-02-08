@@ -41,8 +41,11 @@ Hello! I'm Mduduzi Thanjekwayo, a cybersecurity analyst with a strong focus on S
 
 ## Certifications
 
-CompTIA Security+ (February 2025)
-Google Cybersecurity Certificate (October 2024)
-ISC2 Certified in Cybersecurity (CC) (November 2023)
+
+🔹 CompTIA Security+ (February 2025)
+
+🔹 Google Cybersecurity Certificate (October 2024)
+
+🔹 ISC2 Certified in Cybersecurity (CC) (November 2023)
 
 </div>
